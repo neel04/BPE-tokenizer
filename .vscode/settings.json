@@ -49,6 +49,8 @@
         "__tree": "cpp",
         "map": "cpp",
         "optional": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp"
     }
 }
